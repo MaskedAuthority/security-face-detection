@@ -9,12 +9,6 @@
 - NumPy
 - Pickle (for storing/loading face signatures)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/security-face-detection.git
-   cd security-face-detection
-
 ## How to Use
 
 ### Step 1: Create and Store a Face Signature
