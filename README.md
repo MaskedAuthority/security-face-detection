@@ -22,5 +22,6 @@ Before you can match faces, you need to create and store a face signature:
 you can create a face signature by running python create_face.py  let it run for 10 sec then  ctrl c 
 
  **step 2 running the actull face detection:**
+ now that you have your face signature  you can run the face  with python face.py  
 
    
